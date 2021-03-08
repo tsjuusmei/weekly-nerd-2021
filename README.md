@@ -4,7 +4,7 @@
 
 #### Aantekeningen
 
-Zie de aantekeningen van de gastsprekers in [mijn Wiki]()
+Zie de aantekeningen van de gastsprekers in [mijn Wiki]().
 
 #### Vraag
 

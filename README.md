@@ -40,6 +40,10 @@ In het bijbehorende artikel van Adam Fard worden voorbeelden gegeven van verschi
 
 ## Weekly Nerd #3
 
+### Aantekeningen
+
+Zie de aantekeningen van de gastsprekers [hier](https://github.com/tsjuusmei/weekly-nerd-2021/wiki/Aantekeningen-week-3).
+
 ### Vraag
 
 Wat heb ik geleerd in de minor?
